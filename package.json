@@ -1,5 +1,5 @@
 {
-	"name": "browser-debug",
+	"name": "@flemist/browser-debug",
 	"version": "0.0.1",
 	"description": "Browser Debug",
 	"author": {
