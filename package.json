@@ -1,19 +1,19 @@
 {
-	"name": "app-template",
+	"name": "browser-debug",
 	"version": "0.0.1",
-	"description": "App Template",
+	"description": "Browser Debug",
 	"author": {
-		"name": "App Template",
-		"url": "https://github.com/AppTemplate/",
-		"email": "app-template@mail.com"
+		"name": "Nikolay Makhonin",
+		"url": "https://github.com/NikolayMakhonin/",
+		"email": "browser-debug@mail.com"
 	},
-	"homepage": "https://github.com/AppTemplate/app-template/",
+	"homepage": "https://github.com/NikolayMakhonin/browser-debug/",
 	"bugs": {
-		"url": "https://github.com/AppTemplate/app-template/issues"
+		"url": "https://github.com/NikolayMakhonin/browser-debug/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+ssh://git@github.com:AppTemplate/app-template.git"
+		"url": "git+ssh://git@github.com:NikolayMakhonin/browser-debug.git"
 	},
 	"license": "CC0-1.0",
 	"keywords": [],
