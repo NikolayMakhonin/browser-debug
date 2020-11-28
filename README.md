@@ -17,14 +17,14 @@ Browser debug helpers
 
 [CC0-1.0](LICENSE)
 
-[npm-image]: https://img.shields.io/npm/v/browser-debug.svg
-[npm-url]: https://npmjs.org/package/browser-debug
-[node-version-image]: https://img.shields.io/node/v/browser-debug.svg
+[npm-image]: https://img.shields.io/npm/v/@flemist/browser-debug.svg
+[npm-url]: https://npmjs.org/package/@flemist/browser-debug
+[node-version-image]: https://img.shields.io/node/v/@flemist/browser-debug.svg
 [node-version-url]: https://nodejs.org/en/download/
-[travis-image]: https://travis-ci.org/NikolayMakhonin/browser-debug.svg?branch=browser-helpers
-[travis-url]: https://travis-ci.org/NikolayMakhonin/browser-debug?branch=browser-helpers
-[coveralls-image]: https://coveralls.io/repos/github/NikolayMakhonin/browser-debug/badge.svg?branch=browser-helpers
-[coveralls-url]: https://coveralls.io/github/NikolayMakhonin/browser-debug?branch=browser-helpers
-[downloads-image]: https://img.shields.io/npm/dm/browser-debug.svg
-[downloads-url]: https://npmjs.org/package/browser-debug
-[npm-url]: https://npmjs.org/package/browser-debug
+[travis-image]: https://travis-ci.org/NikolayMakhonin/@flemist/browser-debug.svg?branch=browser-helpers
+[travis-url]: https://travis-ci.org/NikolayMakhonin/@flemist/browser-debug?branch=browser-helpers
+[coveralls-image]: https://coveralls.io/repos/github/NikolayMakhonin/@flemist/browser-debug/badge.svg?branch=browser-helpers
+[coveralls-url]: https://coveralls.io/github/NikolayMakhonin/@flemist/browser-debug?branch=browser-helpers
+[downloads-image]: https://img.shields.io/npm/dm/@flemist/browser-debug.svg
+[downloads-url]: https://npmjs.org/package/@flemist/browser-debug
+[npm-url]: https://npmjs.org/package/@flemist/browser-debug
